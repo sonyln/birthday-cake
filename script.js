@@ -38,7 +38,7 @@ async function initMic() {
         } else if (blowCount >= 2) {
           flame.style.display = 'none'; // пламя потухло навсегда
           candleBlown = true;
-          message.textContent = 'ПОЗДРАВЛЯЮ ТЕБЯ С ДНЕМ РОЖДЕНИЯ!!';
+          message.textContent = ' С ДНЕМ РОЖДЕНИЯ, ЛЮБИМЫЙ!!';
         }
       }
 
