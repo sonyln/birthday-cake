@@ -24,14 +24,14 @@ body {
 .bottom-layer {
   width: 180px;
   height: 100px;
-  background: hsl(270, 78%, 84%); /* светло-голубой */
+  background: hsl(258, 84%, 51%); /* светло-голубой */
   margin-top: -30px; /* немного перекрывает нижний слой */
   border-radius: 20px 20px 10px 10px;
 }
 
 .top-layer {
   height: 120px;
-  background: #8945e9; /* светло-фиолетовый */
+  background: #9c5ef3; /* светло-фиолетовый */
 }
 
 .candle {
@@ -121,6 +121,6 @@ body {
 
 #message {
   margin-top: 20px;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: bold;
 }
